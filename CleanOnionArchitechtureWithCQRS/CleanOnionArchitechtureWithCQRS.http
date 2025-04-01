@@ -1,0 +1,6 @@
+@CleanOnionArchitechtureWithCQRS_HostAddress = http://localhost:5019
+
+GET {{CleanOnionArchitechtureWithCQRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
